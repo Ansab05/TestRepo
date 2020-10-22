@@ -1,2 +1,4 @@
 Change 1: Welcome to GIT Assignment
-Change2: Hope you are safe! Changes done by team mate for rebase testing on master
+
+Change2 (a): Hope you are safe and healthy! 
+Testing Rebase in idea branch.Changes done by team mate for rebase testing on master.
