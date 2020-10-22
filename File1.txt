@@ -1,2 +1,2 @@
 Change 1: Welcome to GIT Assignment
-Change 2: Hope you are safe!
+Change2: Hope you are safe!
